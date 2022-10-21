@@ -1,0 +1,83 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.canvas {
+    height: 100%;
+}
+
+.main {
+    height: 500px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 11fr 1fr;
+}
+
+.main2 {
+    height: 500px;
+    width: 100%;
+    display: grid;
+}
+
+.main3 {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blocksDiv {
+    justify-content: center;
+    color: #FFFFFF;
+    background-color: #575757;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 2px;
+}
+
+.boxe {
+    height: 80%;
+}
+
+.slider {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.notFound {
+    color: #FFFFFF;
+    background-color: #575757;
+}
+
+.notFoundBox {
+    background-color: #575757;
+    margin: 30%;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    justify-items: center;
+}
+
+.input {
+    height: 100%; 
+    width: 100%;
+}
+
+.flexDiv {
+    display: flex;
+    height: 3em;
+}

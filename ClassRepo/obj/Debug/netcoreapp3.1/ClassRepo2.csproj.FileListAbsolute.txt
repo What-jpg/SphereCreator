@@ -1,0 +1,10 @@
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\obj\Debug\netcoreapp3.1\ClassRepo2.csproj.AssemblyReference.cache
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\obj\Debug\netcoreapp3.1\ClassRepo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\obj\Debug\netcoreapp3.1\ClassRepo2.AssemblyInfoInputs.cache
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\obj\Debug\netcoreapp3.1\ClassRepo2.AssemblyInfo.cs
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\obj\Debug\netcoreapp3.1\ClassRepo2.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\bin\Debug\netcoreapp3.1\ClassRepo2.deps.json
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\bin\Debug\netcoreapp3.1\ClassRepo2.dll
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\bin\Debug\netcoreapp3.1\ClassRepo2.pdb
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\obj\Debug\netcoreapp3.1\ClassRepo2.dll
+C:\Users\Natalia\Documents\spherecreator\ClassRepo2\obj\Debug\netcoreapp3.1\ClassRepo2.pdb

@@ -1,0 +1,12 @@
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\bin\Debug\net6.0\ClassRepo.deps.json
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\bin\Debug\net6.0\ClassRepo.dll
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\bin\Debug\net6.0\ClassRepo.pdb
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\obj\Debug\net6.0\ClassRepo.csproj.AssemblyReference.cache
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\obj\Debug\net6.0\ClassRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\obj\Debug\net6.0\ClassRepo.AssemblyInfoInputs.cache
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\obj\Debug\net6.0\ClassRepo.AssemblyInfo.cs
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\obj\Debug\net6.0\ClassRepo.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\obj\Debug\net6.0\ClassRepo.dll
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\obj\Debug\net6.0\refint\ClassRepo.dll
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\obj\Debug\net6.0\ClassRepo.pdb
+C:\Users\Natalia\Documents\SphereProject\ClassRepo\obj\Debug\net6.0\ref\ClassRepo.dll
