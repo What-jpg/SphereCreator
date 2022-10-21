@@ -1,6 +1,6 @@
 import "../custom.css";
 
-import img from "../images/GRYNKO.jpg";
+//import img from "../images/GRYNKO.jpg";
 
 import * as THREE from "three";
 import axios from 'axios';
